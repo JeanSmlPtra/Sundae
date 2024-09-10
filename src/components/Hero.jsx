@@ -2,8 +2,8 @@ import React from 'react';
 
 const Hero = () => {
   return (
-    <section id="hero" className="h-[210vh] flex flex-col items-start justify-center text-center bg-[#F488C6] w-[178vh] pl-40">
-    <div className="flex items-start flex-col pt-[1000px]">
+    <section id="hero" className="h-[390vh] flex flex-col items-start justify-center text-center bg-[#F488C6] w-[178vh] pl-40">
+    <div className="flex items-start flex-col pt-[2800px]">
       <h2 className="text-8xl font-bold mb-2">Delight in Every</h2>
       <h2 className="text-8xl font-bold mb-4">Scoop</h2>
       <p className="text-xl mb-6 w-[800px] flex text-start">At Sundae Everydae we create the ultimate ice cream sundaes with the finest ingredients. Each scoop is a blend of creamy texture and rich flavors, designed to bring a smile with every bite. Dive into pure happiness and enjoy the sweetest moments.</p>
