@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import About from './components/About';
 import Menu from './components/Menu';
 import './app.css';
+import { BestSeller } from './components/BestSeller';
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <Hero />
       <About />
       <Menu />
+      <BestSeller />
     </div>
   );
 };
